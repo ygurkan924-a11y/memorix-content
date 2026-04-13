@@ -13,5 +13,6 @@
     "word": "Car",
     "meaning": "Araba",
     "level": "A1"
-  }
-]
+  },
+  { "word": "House", "meaning": "Ev", "level": "A1" },
+{ "word": "Garden", "meaning": "Bahçe", "level": "A1" }
